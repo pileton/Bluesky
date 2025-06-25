@@ -1,0 +1,59 @@
+{
+  "name": "Blue Sky",
+  "description": "A clean blue sky theme with bright gradients and no background.",
+  "authors": [
+    {
+      "name": "Pookie",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#91d3f7", "#ffffff"],
+    "HEADER_SECONDARY": ["#6db8ff", "#b3e0ff"],
+    "TEXT_NORMAL": ["#e6f7ff", "#ffffff"],
+    "TEXT_MUTED": ["#b0d7ec", "#a0cde6"],
+    "INTERACTIVE_NORMAL": ["#91d3f7", "#cdefff"],
+    "INTERACTIVE_HOVER": ["#7ec8f2", "#b3e9ff"],
+    "INTERACTIVE_ACTIVE": ["#5eb6e7", "#99ddff"],
+    "INTERACTIVE_MUTED": ["#8db0c9", "#9ecae2"],
+    "BACKGROUND_PRIMARY": ["#ccefff", "#e6f7ff"],
+    "BACKGROUND_SECONDARY": ["#b3e5fc", "#d0f0ff"],
+    "BACKGROUND_SECONDARY_ALT": ["#a3d9f7", "#c0ecff"],
+    "BACKGROUND_TERTIARY": ["#cbefff", "#e4f9ff"],
+    "BACKGROUND_ACCENT": ["#c2ecff", "#b3e5fc"],
+    "BACKGROUND_FLOATING": ["#d4f4ff", "#ffffff"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#d0f4ff", "#e0faff"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#b3e5fc", "#ccefff"],
+    "BACKGROUND_MODIFIER_HOVER": ["#e0f7ff", "#d0ecf5"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#b3e5fc", "#c6efff"],
+    "SCROLLBAR_THIN_THUMB": ["#a0cde6", "#8fc7e7"],
+    "SCROLLBAR_AUTO_THUMB": ["#b3e0ff", "#91d3f7"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#a0cde6", "#c8eaff"],
+    "CHANNELS_DEFAULT": ["#6db8ff", "#91d3f7"],
+    "TEXT_LINK": ["#3399ff", "#66c2ff"],
+    "CHANNEL_ICON": ["#66b2ff", "#b3e5fc"],
+    "MENTION_FOREGROUND": ["#0080ff"],
+    "TEXT_DANGER": ["#ff6b6b"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#ffffff", "#b3e5fc"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#ffffff", "#d6f4ff"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#e6f7ff",
+    "PRIMARY_200": "#ccefff",
+    "PRIMARY_300": "#b3e5fc",
+    "PRIMARY_400": "#99d6f5",
+    "PRIMARY_500": "#80cfff",
+    "PRIMARY_600": "#66c2ff",
+    "PRIMARY_700": "#4db8ff",
+    "PRIMARY_800": "#3399ff",
+    "PRIMARY_900": "#1a8cff",
+    "BRAND_NEW": "#3399ff",
+    "WHITE_500": "#ffffff"
+  },
+  "background": {
+    "alpha": 0,
+    "url": ""
+  },
+  "fonts": {},
+  "spec": 2
+}
